@@ -16,7 +16,7 @@ This is a repository for One Bite meal app Developed using Vanilla JavaScript, H
 
 
 --Features:
-1. Search Meal by their name
+1. Search Meal by their name.
 2. Save favrouite meals for future use.
 3. Works on both mobile and desktop devices.
 
